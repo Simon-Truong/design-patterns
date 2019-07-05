@@ -1,0 +1,7 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe.config
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.pdb

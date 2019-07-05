@@ -1,0 +1,7 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\VisitorDesignPattern\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.exe.config
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\VisitorDesignPattern\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\VisitorDesignPattern\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\VisitorDesignPattern\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\VisitorDesignPattern\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\VisitorDesignPattern\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\VisitorDesignPattern\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.pdb

@@ -1,0 +1,7 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe.config
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.pdb
