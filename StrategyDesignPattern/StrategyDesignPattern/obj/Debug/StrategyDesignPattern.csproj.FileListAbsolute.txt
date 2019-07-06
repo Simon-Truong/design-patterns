@@ -1,0 +1,7 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.exe.config
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.pdb
