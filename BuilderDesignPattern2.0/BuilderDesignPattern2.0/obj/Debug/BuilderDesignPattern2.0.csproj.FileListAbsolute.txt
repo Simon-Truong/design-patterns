@@ -1,0 +1,7 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\BuilderDesignPattern2.0\BuilderDesignPattern2.0\bin\Debug\BuilderDesignPattern2.0.exe.config
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\BuilderDesignPattern2.0\BuilderDesignPattern2.0\bin\Debug\BuilderDesignPattern2.0.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\BuilderDesignPattern2.0\BuilderDesignPattern2.0\bin\Debug\BuilderDesignPattern2.0.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\BuilderDesignPattern2.0\BuilderDesignPattern2.0\obj\Debug\BuilderDesignPattern2.0.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\BuilderDesignPattern2.0\BuilderDesignPattern2.0\obj\Debug\BuilderDesignPattern2.0.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\BuilderDesignPattern2.0\BuilderDesignPattern2.0\obj\Debug\BuilderDesignPattern2.0.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\BuilderDesignPattern2.0\BuilderDesignPattern2.0\obj\Debug\BuilderDesignPattern2.0.pdb
