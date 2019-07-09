@@ -1,0 +1,7 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\CommandDesignPattern\CommandDesignPattern\bin\Debug\CommandDesignPattern.exe.config
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\CommandDesignPattern\CommandDesignPattern\bin\Debug\CommandDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\CommandDesignPattern\CommandDesignPattern\bin\Debug\CommandDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.pdb
