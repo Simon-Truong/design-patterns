@@ -1,0 +1,7 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\TemplateDesignPattern\TemplateDesignPattern\bin\Debug\TemplateDesignPattern.exe.config
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\TemplateDesignPattern\TemplateDesignPattern\bin\Debug\TemplateDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\TemplateDesignPattern\TemplateDesignPattern\bin\Debug\TemplateDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\TemplateDesignPattern\TemplateDesignPattern\obj\Debug\TemplateDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\TemplateDesignPattern\TemplateDesignPattern\obj\Debug\TemplateDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\TemplateDesignPattern\TemplateDesignPattern\obj\Debug\TemplateDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\TemplateDesignPattern\TemplateDesignPattern\obj\Debug\TemplateDesignPattern.pdb
