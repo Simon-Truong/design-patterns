@@ -1,0 +1,7 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe.config
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.pdb
