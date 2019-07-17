@@ -1,0 +1,7 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe.config
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.pdb

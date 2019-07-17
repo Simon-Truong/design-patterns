@@ -1,4 +1,8 @@
-﻿using System;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace PrototypeDesignPattern
 {
@@ -6,49 +10,35 @@ namespace PrototypeDesignPattern
     {
         static void Main(string[] args)
         {
-            Address address = new Address(10, "Apple", "Fruit");
-            ShallowDetails shallowDetails = new ShallowDetails(1, "David", 24, address);
+            Person developer = new Person("David", 25, "Developer");
+            developer.GetDetails();
 
-            Console.WriteLine("Original shallowDetails");
-            Console.WriteLine(shallowDetails.Id);
-            Console.WriteLine(shallowDetails.Name);
-            Console.WriteLine(shallowDetails.Age);
-            Console.WriteLine(shallowDetails.Address.StreetNumber);
-            Console.WriteLine(shallowDetails.Address.StreetName);
-            Console.WriteLine(shallowDetails.Address.Suburb);
+            Person developer2 = developer.Clone() as Person;
 
-            ShallowDetails shallowDetailsClone = shallowDetails.Clone() as ShallowDetails;
+            Console.WriteLine("Changing clone name and age");
 
-            Console.WriteLine("\nCloned shallowDetails");
-            Console.WriteLine(shallowDetailsClone.Id);
-            Console.WriteLine(shallowDetailsClone.Name);
-            Console.WriteLine(shallowDetailsClone.Age);
-            Console.WriteLine(shallowDetailsClone.Address.StreetNumber);
-            Console.WriteLine(shallowDetailsClone.Address.StreetName);
-            Console.WriteLine(shallowDetailsClone.Address.Suburb);
+            developer2.Name = "Cory";
+            developer2.Age = 42;
 
-            shallowDetailsClone.Address.StreetName = "Banana";
+            developer2.GetDetails();
 
-            Console.WriteLine("\nMade changes");
+            Console.WriteLine("---");
+            Console.WriteLine("Making new pet");
 
-            Console.WriteLine("\nOriginal shallowDetails");
-            Console.WriteLine(shallowDetails.Id);
-            Console.WriteLine(shallowDetails.Name);
-            Console.WriteLine(shallowDetails.Age);
-            Console.WriteLine(shallowDetails.Address.StreetNumber);
-            Console.WriteLine(shallowDetails.Address.StreetName);
-            Console.WriteLine(shallowDetails.Address.Suburb);
-            Console.ReadLine();
+            Pet dog = new Pet("B", "dog");
+            dog.GetDetails();
 
-            Console.WriteLine("\nCloned shallowDetails");
-            Console.WriteLine(shallowDetailsClone.Id);
-            Console.WriteLine(shallowDetailsClone.Name);
-            Console.WriteLine(shallowDetailsClone.Age);
-            Console.WriteLine(shallowDetailsClone.Address.StreetNumber);
-            Console.WriteLine(shallowDetailsClone.Address.StreetName);
-            Console.WriteLine(shallowDetailsClone.Address.Suburb);
-            Console.ReadLine();
+            Console.WriteLine("---");
 
+            PersonDeep individualWithPet = new PersonDeep("Mike", 30, "Lawyer", dog);
+            PersonDeep individualWithPet2 = individualWithPet.Clone() as PersonDeep;
+
+            individualWithPet2.Pet.Name = "A";
+            individualWithPet2.Pet.Type = "Bird";
+
+            individualWithPet.Pet.GetDetails();
+            individualWithPet2.Pet.GetDetails();
+            Console.ReadKey();
         }
     }
 }
