@@ -10,8 +10,8 @@ namespace FacadeDesignPattern
     {
         static void Main(string[] args)
         {
-            IPizza pizza = new Pizza();
-            IBread bread = new Bread();
+            Pizza pizza = new Pizza();
+            Bread bread = new Bread();
 
             RestaurantFacade restaurant = new RestaurantFacade(pizza, bread);
 
