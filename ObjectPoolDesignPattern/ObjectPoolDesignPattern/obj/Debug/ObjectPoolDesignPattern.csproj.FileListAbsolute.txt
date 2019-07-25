@@ -1,0 +1,7 @@
+C:\Users\SimonTruong\source\repos\ObjectPoolDesignPattern\ObjectPoolDesignPattern\bin\Debug\ObjectPoolDesignPattern.exe.config
+C:\Users\SimonTruong\source\repos\ObjectPoolDesignPattern\ObjectPoolDesignPattern\bin\Debug\ObjectPoolDesignPattern.exe
+C:\Users\SimonTruong\source\repos\ObjectPoolDesignPattern\ObjectPoolDesignPattern\bin\Debug\ObjectPoolDesignPattern.pdb
+C:\Users\SimonTruong\source\repos\ObjectPoolDesignPattern\ObjectPoolDesignPattern\obj\Debug\ObjectPoolDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\source\repos\ObjectPoolDesignPattern\ObjectPoolDesignPattern\obj\Debug\ObjectPoolDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\source\repos\ObjectPoolDesignPattern\ObjectPoolDesignPattern\obj\Debug\ObjectPoolDesignPattern.exe
+C:\Users\SimonTruong\source\repos\ObjectPoolDesignPattern\ObjectPoolDesignPattern\obj\Debug\ObjectPoolDesignPattern.pdb
