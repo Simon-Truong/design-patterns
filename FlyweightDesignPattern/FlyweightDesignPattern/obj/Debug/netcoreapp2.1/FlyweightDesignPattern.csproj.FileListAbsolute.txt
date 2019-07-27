@@ -1,0 +1,11 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FlyweightDesignPattern\FlyweightDesignPattern\bin\Debug\netcoreapp2.1\FlyweightDesignPattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FlyweightDesignPattern\FlyweightDesignPattern\bin\Debug\netcoreapp2.1\FlyweightDesignPattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FlyweightDesignPattern\FlyweightDesignPattern\bin\Debug\netcoreapp2.1\FlyweightDesignPattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FlyweightDesignPattern\FlyweightDesignPattern\bin\Debug\netcoreapp2.1\FlyweightDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FlyweightDesignPattern\FlyweightDesignPattern\bin\Debug\netcoreapp2.1\FlyweightDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FlyweightDesignPattern\FlyweightDesignPattern\obj\Debug\netcoreapp2.1\FlyweightDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FlyweightDesignPattern\FlyweightDesignPattern\obj\Debug\netcoreapp2.1\FlyweightDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FlyweightDesignPattern\FlyweightDesignPattern\obj\Debug\netcoreapp2.1\FlyweightDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FlyweightDesignPattern\FlyweightDesignPattern\obj\Debug\netcoreapp2.1\FlyweightDesignPattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FlyweightDesignPattern\FlyweightDesignPattern\obj\Debug\netcoreapp2.1\FlyweightDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\FlyweightDesignPattern\FlyweightDesignPattern\obj\Debug\netcoreapp2.1\FlyweightDesignPattern.pdb
