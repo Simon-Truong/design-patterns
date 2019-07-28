@@ -1,0 +1,11 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\MomentoDesignPattern\MomentoDesignPattern\bin\Debug\netcoreapp2.1\MomentoDesignPattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\MomentoDesignPattern\MomentoDesignPattern\bin\Debug\netcoreapp2.1\MomentoDesignPattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\MomentoDesignPattern\MomentoDesignPattern\bin\Debug\netcoreapp2.1\MomentoDesignPattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\MomentoDesignPattern\MomentoDesignPattern\bin\Debug\netcoreapp2.1\MomentoDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\MomentoDesignPattern\MomentoDesignPattern\bin\Debug\netcoreapp2.1\MomentoDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\MomentoDesignPattern\MomentoDesignPattern\obj\Debug\netcoreapp2.1\MomentoDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\MomentoDesignPattern\MomentoDesignPattern\obj\Debug\netcoreapp2.1\MomentoDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\MomentoDesignPattern\MomentoDesignPattern\obj\Debug\netcoreapp2.1\MomentoDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\MomentoDesignPattern\MomentoDesignPattern\obj\Debug\netcoreapp2.1\MomentoDesignPattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\MomentoDesignPattern\MomentoDesignPattern\obj\Debug\netcoreapp2.1\MomentoDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\MomentoDesignPattern\MomentoDesignPattern\obj\Debug\netcoreapp2.1\MomentoDesignPattern.pdb
