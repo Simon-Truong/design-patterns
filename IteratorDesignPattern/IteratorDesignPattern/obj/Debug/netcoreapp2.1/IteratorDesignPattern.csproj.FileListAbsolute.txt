@@ -1,0 +1,11 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp2.1\IteratorDesignPattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp2.1\IteratorDesignPattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp2.1\IteratorDesignPattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp2.1\IteratorDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp2.1\IteratorDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp2.1\IteratorDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp2.1\IteratorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp2.1\IteratorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp2.1\IteratorDesignPattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp2.1\IteratorDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp2.1\IteratorDesignPattern.pdb
