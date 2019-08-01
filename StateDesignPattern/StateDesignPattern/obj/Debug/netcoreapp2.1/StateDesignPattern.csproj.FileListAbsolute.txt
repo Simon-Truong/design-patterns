@@ -1,0 +1,11 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StateDesignPattern\StateDesignPattern\bin\Debug\netcoreapp2.1\StateDesignPattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StateDesignPattern\StateDesignPattern\bin\Debug\netcoreapp2.1\StateDesignPattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StateDesignPattern\StateDesignPattern\bin\Debug\netcoreapp2.1\StateDesignPattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StateDesignPattern\StateDesignPattern\bin\Debug\netcoreapp2.1\StateDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StateDesignPattern\StateDesignPattern\bin\Debug\netcoreapp2.1\StateDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StateDesignPattern\StateDesignPattern\obj\Debug\netcoreapp2.1\StateDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StateDesignPattern\StateDesignPattern\obj\Debug\netcoreapp2.1\StateDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StateDesignPattern\StateDesignPattern\obj\Debug\netcoreapp2.1\StateDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StateDesignPattern\StateDesignPattern\obj\Debug\netcoreapp2.1\StateDesignPattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StateDesignPattern\StateDesignPattern\obj\Debug\netcoreapp2.1\StateDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\StateDesignPattern\StateDesignPattern\obj\Debug\netcoreapp2.1\StateDesignPattern.pdb
