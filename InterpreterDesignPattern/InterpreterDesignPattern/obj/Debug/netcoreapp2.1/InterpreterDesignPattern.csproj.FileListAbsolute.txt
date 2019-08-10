@@ -1,0 +1,11 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\netcoreapp2.1\InterpreterDesignPattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\netcoreapp2.1\InterpreterDesignPattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\netcoreapp2.1\InterpreterDesignPattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\netcoreapp2.1\InterpreterDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\netcoreapp2.1\InterpreterDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\netcoreapp2.1\InterpreterDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\netcoreapp2.1\InterpreterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\netcoreapp2.1\InterpreterDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\netcoreapp2.1\InterpreterDesignPattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\netcoreapp2.1\InterpreterDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design_patterns\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\netcoreapp2.1\InterpreterDesignPattern.pdb
